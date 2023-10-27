@@ -12,7 +12,7 @@ setup(
     license='MIT',
     description='AES',
     long_description=open('README.txt').read(),
-    url='git@github.com:GincyAG/aes-.git',
+    url='git@github.com:GincyAG/aes.git',
     author='Gincy',
     install_requires=[
         'tifffile==2021.11.2',
