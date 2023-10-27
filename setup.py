@@ -15,9 +15,5 @@ setup(
     url='git@github.com:GincyAG/aes.git',
     author='Gincy',
     install_requires=[
-        'tifffile==2021.11.2',
-        'numpy==1.23.5',
-        'selenium==3.141.0',
-        'validators',
     ],
 )
